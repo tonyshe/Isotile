@@ -1,4 +1,4 @@
-Isometric map renderer for Python
+Isometric map renderer for Python. See "SAMPLE_OUTPUT.png" for an example.
 
 Takes an N x M map of RGBA values and pixel height values and represents them as a NxM isometric block.
 
